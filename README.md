@@ -1,11 +1,5 @@
 ## Welcome to the Digital Technologies Lab @GHS
 
-<p>
-  <a href="https://programmingliftoff.com/">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fprogrammingliftoff.com%2F&psig=AOvVaw26BUwx5kmlnCsDlyOi3tPa&ust=1621293953799000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCJi-Ssz_ACFQAAAAAdAAAAABAD" alt="Programming Liftoff" width="150">
-  </a>
-</p>
-
 You can use the [editor on GitHub](https://github.com/AletaChowfin/Digital-Technologies-Lab/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
