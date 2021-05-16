@@ -23,6 +23,12 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+<p>
+  <a href="https://www.google.com/">
+    <img src="dthm4kaiako/static/img/logos/google-logo-colour.png" alt="Google" width="150">
+  </a>
+</p>
+
 [Link](url) and ![Image](src)
 ```
 
