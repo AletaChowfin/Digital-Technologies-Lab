@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the Digital Technologies Lab @GHS
 
 You can use the [editor on GitHub](https://github.com/AletaChowfin/Digital-Technologies-Lab/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
